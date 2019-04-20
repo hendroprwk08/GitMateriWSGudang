@@ -22,3 +22,6 @@ D:\OneDrive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\obj\Debug\AppWarehou
 D:\OneDrive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\obj\Debug\AppWarehouse.FRak.resources
 D:\OneDrive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\obj\Debug\AppWarehouse.Properties.Resources.resources
 D:\OneDrive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\obj\Debug\AppWarehouse.csproj.GenerateResource.Cache
+D:\Google Drive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\bin\Debug\AppWarehouse.exe.config
+D:\Google Drive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\obj\Debug\AppWarehouse.exe
+D:\Google Drive\aplikasibuatanku\GitMateriWSGudang\AppWarehouse\obj\Debug\AppWarehouse.pdb
